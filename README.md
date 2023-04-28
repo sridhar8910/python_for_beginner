@@ -1,1 +1,1 @@
-# python_from_beginning
+# python_for_beginning
